@@ -1,0 +1,7 @@
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\TiposdeDatos\TiposdeDatos\bin\Debug\TiposdeDatos.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\TiposdeDatos\TiposdeDatos\bin\Debug\TiposdeDatos.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\TiposdeDatos\TiposdeDatos\bin\Debug\TiposdeDatos.pdb
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\TiposdeDatos\TiposdeDatos\obj\Debug\TiposdeDatos.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\TiposdeDatos\TiposdeDatos\obj\Debug\TiposdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\TiposdeDatos\TiposdeDatos\obj\Debug\TiposdeDatos.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\TiposdeDatos\TiposdeDatos\obj\Debug\TiposdeDatos.pdb
